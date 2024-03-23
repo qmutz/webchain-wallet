@@ -85,7 +85,7 @@
     "lodash": "^4.17.10",
     "material-ui": "^0.20.2",
     "node-fetch": "^2.1.2",
-    "node-pre-gyp": "0.6.36",
+    "node-pre-gyp": "0.17.0",
     "prop-types": "^15.4.2",
     "qrcode.react": "0.7.2",
     "qs": "^6.5.2",
